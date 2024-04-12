@@ -5,8 +5,8 @@ contract DanielERC20 {
     uint public totalSupply;
     mapping(address => uint) public balanceOf;
     mapping(address => mapping(address => uint)) public allowance;
-    string public name = "AJIDOKWU";
-    string public symbol = "AJI";
+    string public name = "DANIEL";
+    string public symbol = "DAN";
     uint8 public decimals = 18;
 
 		event Transfer(address indexed from, address indexed to, uint value);
