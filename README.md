@@ -1,6 +1,6 @@
 Creating an EVM-Subnet on Avalanche
 Overview.
-This project establishes an EVM Subnet on the Avalanche network named "Daniel," featuring its native token, GamersTokens. The network seamlessly integrates with MetaMask, enabling the deployment and interaction with smart contracts through the injected provider on Remix.
+This project establishes an EVM Subnet on the Avalanche network named "Daniel," featuring its native token, GamersTokens. The network seamlessly integrates with MetaMask, enabling the deployment and interaction with smart contracts through the injected provider on Remix
 
 Project Features
 These project will be interacting with two smart contracts an ERC20 token and a vault contract, these contracts should be able to:
